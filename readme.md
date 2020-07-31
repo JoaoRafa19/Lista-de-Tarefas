@@ -9,6 +9,8 @@
 
 </p>
 <h3>Objetivos</h3>
+
+---
 <ul>
     <li>Iniciar um projeto WEB em Django</li>
     <li>Criar um CRUD de tarefas
