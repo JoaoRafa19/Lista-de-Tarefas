@@ -72,7 +72,7 @@
 				{% if tarefa.urgencia == 'SIM' %}
 					<a href="{% url 'update' tarefa.id %}" class="list-group-item list-group-item-action active">{{ tarefa.nome }}</a>
 				{% else %}
-					<a href="{% url 'update' tarefa.id %}" class="list-group-item list-group-item-action ">{{ tarefa.nome }} </a>
+					<a href="{% url 'update' tarefa.id %}" class="list-group-item list-group-item-action ">{{ tarefa.nome }}</a>
 				{% endif %}
 				
 				
