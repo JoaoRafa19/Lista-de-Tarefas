@@ -1,12 +1,11 @@
 <html>
 
 <h1>Lista de Tarefas</h1>
-<hr>
+
 <div>
 <h2>Resumo</h2>
 <p>Um pequeno modelo de uma lista de tarefas, onde você pode criar, modificar e remover tarefas marcadas como urgente ou não.</p>
 
----
 
 </p>
 <h3>Objetivos</h3>
