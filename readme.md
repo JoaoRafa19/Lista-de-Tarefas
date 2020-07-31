@@ -201,7 +201,7 @@ def delete_tarefa(request, id):
     tarefa = Tarefa.objects.get(id=id)
     tarefa.delete()
     return redirect('index')
-
+```
 </div>
 </html>
-```
+
